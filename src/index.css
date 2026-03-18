@@ -1,0 +1,8 @@
+/* Base reset – extended by src/styles/globals.css */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
